@@ -2,7 +2,7 @@
 
 🎓 I graduated in Mechanical Engineering and have vast experience working with data across several different industries. Some of the projects I've worked on include analyzing different aspects of Steam games to understand the potential for new game launches, creating a tool to prioritize and rank stakeholders for the government, and developing a machine learning model to predict players performance in games.
 
-💻 I'm proficient in several tools and technologies, including Python, R, SQL, and Tableau. I also have experience with machine learning techniques such as regression, and classification.
+💻 I'm proficient in several tools and technologies, including Python, SQL, and Power BI and Tableau. I also have experience with machine learning techniques such as regression, and classification.
 
 📈 One of my proudest achievements is developing a Lean Six Sigma project to improve machine availability, which ultimately rose production by 2.2% and had a cost avoidance of more than U$100K per year/
 
