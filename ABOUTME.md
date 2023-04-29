@@ -9,6 +9,7 @@
 🚀 In the future, I'm interested in exploring new techniques in machine learning models, and working on projects in the gaming industry, the industry I'm currently in. If you're interested in collaborating on some projects or discussing new ideas, feel free to reach out!
 
 https://www.linkedin.com/in/gustavo-alvarenga/
+
 https://twitter.com/GusPlaysData
 
 
