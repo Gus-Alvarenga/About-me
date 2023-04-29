@@ -1,6 +1,12 @@
-👋 Hi, I’m @gustavo-alvarenga, your Mechanical Engineer that chose to work with Data Science. 
+👋 Hello there! I’m @gustavo-alvarenga and I'm a passionate data scientist with a love for analytics and pipelines. 
 
-I created this portfolio to share some of the projects I am and will be working on.
+🎓 I graduated in Mechanical Engineering and have vast experience working with data across several different industries. Some of the projects I've worked on include analyzing different aspects of Steam games to understand the potential for new game launches, creating a tool to prioritize and rank stakeholders for the government, and developing a machine learning model to predict players performance in games.
+
+💻 I'm proficient in several tools and technologies, including Python, R, SQL, and Tableau. I also have experience with machine learning techniques such as regression, and classification.
+
+📈 One of my proudest achievements is developing a Lean Six Sigma project to improve machine availability, which ultimately rose production by 2.2% and had a cost avoidance of more than U$100K per year/
+
+🚀 In the future, I'm interested in exploring new techniques in machine learning models, and working on projects in the gaming industry, the industry I'm currently in. If you're interested in collaborating on some projects or discussing new ideas, feel free to reach out!
 
 
 <!---
